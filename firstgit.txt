@@ -1,1 +1,2 @@
 Hello this my Git Repository.
+Second line of my repository. Nothing interesting yet.
